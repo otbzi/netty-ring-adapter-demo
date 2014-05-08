@@ -4,13 +4,14 @@ FIXME: description
 
 ## Installation
 
-Download from http://example.com/FIXME.
+依赖 https://github.com/otbzi/beary-restful
+
+其他的 lein install, 然后lein run就行了
+
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar board-fly-0.1.0-standalone.jar [args]
+访问 http://127.0.0.1:4000/
 
 ## Options
 
