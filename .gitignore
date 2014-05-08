@@ -1,0 +1,12 @@
+pom.xml
+*jar
+/lib/
+/classes/
+/target/
+.lein-deps-sum
+/target/
+*.DS_Store
+.lein-failures
+.lein-repl-history
+.nrepl-port
+*.pyc
